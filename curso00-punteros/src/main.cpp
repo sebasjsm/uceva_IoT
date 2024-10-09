@@ -3,7 +3,7 @@
 int numero = 10; // Variable global
 
 void duplicar(int * puntero); // Prototipo de la funcion duplicar
-
+//
 /**
  * @brief Este es el punto de entrada del programa
  * Sirve para inicializar las variables y configuraciones
